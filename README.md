@@ -1,5 +1,5 @@
 # GenBank-to-FASTA-conversion
-#Convert Gebbank entries into FASTA file format
+#Convert Genbank entries into FASTA file format
 
 #get_header() function will accept a parameter(a GenBank Record).
 #Function will parse for the VERSION and DEFINITION values within record and stitch them together to form a FASTA header.
